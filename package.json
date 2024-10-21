@@ -1,0 +1,11 @@
+{
+  "name": "exercicio-pratico",
+  "version": "1.0.0",
+  "main": "init.js",
+  "scripts": {
+    "test": "node init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
